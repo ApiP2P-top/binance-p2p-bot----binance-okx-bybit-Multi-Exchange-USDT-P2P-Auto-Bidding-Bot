@@ -442,8 +442,11 @@ class UnifiedAuthenticator:
 
 `binance-p2p-bot`, `binance p2p bot`, `usdt p2p bot`, `Binance merchant tools`, `crypto arbitrage bot`, `Bybit P2P bot`, `OKX P2P bot`, `USDT automated trading`, `P2P auto-bidding`, `P2P rank sniping`, `p2p trading bot`, `binance p2p auto bidding`, `usdt auto trading bot`, `p2p merchant automation`, `crypto p2p arbitrage`, `binance p2p api bot`, `bybit p2p trading bot`, `okx p2p bot`, `multi-exchange p2p bot`, `automated p2p trading`, `p2p price optimization`, `Cross-border P2P fiat automation`, `usdt inventory management`, `p2p bot github`, `binance-p2p-bot github`
 
-![binance-p2p-bot](https://github.com/user-attachments/assets/c275a696-b20f-4f96-9f27-b8085d18cd43)
-![usdt-p2p-bot](https://github.com/user-attachments/assets/6207b2c8-37c6-4b46-a56b-483aa63d7fa4)
+<img width="1351" height="851" alt="11" src="https://github.com/user-attachments/assets/c8ab428f-d11b-4909-b0a1-d04efc8852cf" />
+
+<img width="1351" height="851" alt="22" src="https://github.com/user-attachments/assets/947ce170-136b-4a62-8557-4b0aa237d2a5" />
+
+<img width="1351" height="851" alt="33" src="https://github.com/user-attachments/assets/3179812c-fd5a-45b5-b6f9-2ac266508141" />
 
 ---
 
