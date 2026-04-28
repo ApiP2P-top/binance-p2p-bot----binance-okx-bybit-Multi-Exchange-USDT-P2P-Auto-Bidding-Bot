@@ -1,6 +1,6 @@
 <div align="center">
 
-**🌐 Select Language / 选择语言**
+**🌐 Select Language /  选择语言**
 
 [English](README.md) | [中文](README_CN.md) | [Español](README_ES.md) | [Русский](README_RU.md) | [Bahasa Indonesia](README_ID.md) | [Türkçe](README_TR.md) | [हिन्दी](README_HI.md) | [Filipino](README_PH.md) | [ไทย](README_TH.md) | [اردو](README_UR.md) | [Tiếng Việt](README_VN.md)
 
@@ -18,7 +18,7 @@ A dedicated USDT P2P bot built for professional P2P merchants. Improve your trad
 
 ---
 
-## 🎬 Live Demo
+## 🎬 Live  Demo
 
 <div align="center">
 
